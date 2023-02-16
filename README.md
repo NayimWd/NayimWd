@@ -1,7 +1,7 @@
-https://s3.gifyu.com/images/jsgif.gif
+<!-- https://s3.gifyu.com/images/jsgif.gif -->
 <h1 align="center">Hi 👋, I'm Nayim Hasan</h1>
 <h3 align="center">A passionate frontend developer with good backend knowledge.</h3>
-https://s3.gifyu.com/images/coding7f04e95070ec0d17.gif
+<!-- https://s3.gifyu.com/images/coding7f04e95070ec0d17.gif -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayimwd&label=Profile%20views&color=0e75b6&style=flat" alt="nayimwd" /> </p>
 
