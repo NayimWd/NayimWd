@@ -1,7 +1,7 @@
-<!-- https://s3.gifyu.com/images/jsgif.gif -->
+<a href="https://gifyu.com/image/Sq07f"><img src="https://s3.gifyu.com/images/jsgif.gif" alt="jsgif.gif" border="0" /></a>
 <h1 align="center">Hi 👋, I'm Nayim Hasan</h1>
 <h3 align="center">A passionate frontend developer with good backend knowledge.</h3>
-<!-- https://s3.gifyu.com/images/coding7f04e95070ec0d17.gif -->
+<a href="https://gifyu.com/image/Sq075"><img src="https://s3.gifyu.com/images/coding7f04e95070ec0d17.gif" alt="coding7f04e95070ec0d17.gif" border="0" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayimwd&label=Profile%20views&color=0e75b6&style=flat" alt="nayimwd" /> </p>
 
