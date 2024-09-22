@@ -1,4 +1,4 @@
-# Hi there, I'm [Nayim Hasan] 👋
+# Hi there, I'm Nayim Hasan 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
