@@ -46,9 +46,10 @@ A brief description of what this project does and its purpose.
 
 ## 📊 GitHub Stats
 
-![NayimWd](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NayimWd&show_icons=true&theme=radical)
 
-[![NayimWd](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NayimWd&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ---
 
