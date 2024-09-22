@@ -1,6 +1,6 @@
 # Hi there, I'm Nayim Hasan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=NayimWd&color=brightgreen)
 
 ---
 
