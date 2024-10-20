@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning **[next js and typescript]**
 - 👯 I’m looking to collaborate on **[any mern project that will enhance my skills]**
 - 💬 Ask me about **MERN Stack, Web Development, JavaScript**
-- 📫 How to reach me: **[nayim.wd@gmail.com]**
-- ⚡ Fun fact: **[I like Javascript and frontend]**
+- 📫 How to reach me: **nayim.wd@gmail.com**
+- ⚡ Fun fact: **I like Javascript and frontend**
 
 ---
 
