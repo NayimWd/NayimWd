@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **[Ecommerce and travel booking app]**
+- 🔭 I’m currently working on **[Ecommerce and Cricket Club Management app]**
 - 🌱 I’m currently learning **[next js and typescript]**
 - 👯 I’m looking to collaborate on **[any mern project that will enhance my skills]**
 - 💬 Ask me about **MERN Stack, Web Development, JavaScript**
