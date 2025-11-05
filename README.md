@@ -69,7 +69,7 @@
   <a href="https://linkedin.com/in/nayim-hasan">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://nayimhasan.netlify.app/">
+  <a href="https://nayim-hasan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:nayim.wd@gmail.com">
