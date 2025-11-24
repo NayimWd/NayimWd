@@ -1,170 +1,216 @@
-<h1 align="center"><strong>Nayim Hasan</strong></h1>
-<p align="center">Frontend-Focused MERN Developer • Scalable Architecture • Clean UI Enthusiast</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NayimWd&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
-
----
-
-## ✨ About Me
-
-I'm a **MERN Stack Developer** passionate about building **scalable**, **clean**, and **user-focused** web applications.  
-I love crafting smooth interfaces, designing maintainable architectures, and applying modern React/Next.js patterns.
-
-Currently exploring deeper **frontend architecture**, **TypeScript**, **API design**, and **clean backend structure**.
-
-### 💡 I Care About
-- Scalable frontends with predictable patterns  
-- Clean UI + accessible user experience  
-- Reliable state management (RTK Query, Zustand)  
-- Maintainable Node/Express APIs  
-- Writing code that stays readable years later  
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-</p>
-
-### **Database**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</p>
-
-## ☁️ Hosting & Deployment Ecosystem
-
-I deploy, scale, and optimize apps across modern hosting providers with a focus on security, performance, and reliability.
-
 <div align="center">
 
-### **Frontend Hosting**
-<a href="https://vercel.com">
-  <img height="32" src="https://cdn.simpleicons.org/vercel/white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://netlify.com">
-  <img height="32" src="https://cdn.simpleicons.org/netlify/00C7B7" />
-</a>
+# 👋 Hi, I'm **Nayim Hasan**
 
----
+### Frontend-Focused MERN Developer | Scalable Architecture | Clean UI Enthusiast
 
-### **Backend & Full-Stack Hosting**
-<a href="https://railway.app">
-  <img height="32" src="https://cdn.simpleicons.org/railway/606060" />
-</a>
-&nbsp;&nbsp;
-<a href="https://fly.io">
-  <img height="32" src="https://cdn.simpleicons.org/flydotio/8B5CF6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://render.com">
-  <img height="32" src="https://cdn.simpleicons.org/render/46E3B7" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=NayimWd&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayim-hasan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://nayim-hasan-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayim.wd@gmail.com)
 
-### **Database & Edge Services**
-<a href="https://www.mongodb.com/atlas">
-  <img height="32" src="https://cdn.simpleicons.org/mongodb/47A248" />
-</a>
-&nbsp;&nbsp;
-<a href="https://supabase.com">
-  <img height="32" src="https://cdn.simpleicons.org/supabase/3ECF8E" />
-</a>
-&nbsp;&nbsp;
-<a href="https://upstash.com">
-  <img height="32" src="https://cdn.simpleicons.org/upstash/00E9A5" />
-</a>
-
----
-
-### **Security, Performance & Edge Delivery**
-<a href="https://cloudflare.com">
-  <img height="32" src="https://cdn.simpleicons.org/cloudflare/F38020" />
-</a>
-&nbsp;&nbsp;
-<a href="https://nginx.org">
-  <img height="32" src="https://cdn.simpleicons.org/nginx/009639" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 About Me
 
-### 🔹 **1. Sports Club API**  
-A complete backend powering cricket tournaments, teams, schedules, role-based flows, and ~90 endpoints.  
-**Tech:** Node.js, Express, MongoDB  
-🔗 Repo: https://github.com/NayimWd/sports-club-api  
+```typescript
+const nayim = {
+    role: "MERN Stack Developer",
+    focus: "Frontend Architecture & Scalability",
+    passion: ["Clean Code", "User Experience", "Modern Web Technologies"],
+    currently: "Building maintainable, enterprise-grade web applications",
+    learning: ["Advanced TypeScript Patterns", "System Design", "Cloud Architecture"],
+    motto: "Write code that speaks for itself"
+};
+```
+
+### 💎 What Drives Me
+
+🎨 **Design Philosophy** — Creating interfaces that feel intuitive and delightful  
+⚡ **Performance First** — Optimized bundles, fast load times, smooth interactions  
+🏗️ **Scalable Architecture** — Code that grows with your business  
+🔒 **Best Practices** — Security, accessibility, and maintainability built-in  
+📚 **Continuous Learning** — Always exploring new patterns and technologies
 
 ---
 
-### 🔹 **2. Sports Club Dashboard**  
-A full **React admin dashboard** with role-based routing, nested navigation, reusable UI components, and scalable state design.  
-**Tech:** React, Redux Toolkit, RTK Query, Tailwind, shadcn/ui  
-🔗 Repo: https://github.com/NayimWd/sports-club-dashboard  
-
----
-
-### 🔹 **3. Developer Portfolio**  
-A clean, minimal, modern portfolio with smooth transitions and a professional layout.  
-**Tech:** Next.js, Tailwind CSS, Framer Motion  
-🔗 Live: https://nayim-hasan-portfolio.vercel.app/  
-
----
-
-## 📊 GitHub Overview
+## 🚀 Tech Arsenal
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-git-master-nayims-projects.vercel.app/api?username=NayimWd&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats-git-master-nayims-projects.vercel.app/api/top-langs/?username=NayimWd&layout=compact&theme=radical" />
+
+### **Frontend Mastery**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### **Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NayimWd&theme=radical" />
-</p>
+---
+
+## ☁️ Cloud & Deployment Ecosystem
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### **Frontend Deployment**
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com)
+
+### **Backend Hosting**
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+[![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=fly.io&logoColor=white)](https://fly.io)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+
+</td>
+<td align="center" width="50%">
+
+### **Database & Storage**
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Upstash](https://img.shields.io/badge/Upstash-00E9A5?style=for-the-badge&logo=upstash&logoColor=white)](https://upstash.com)
+
+### **Edge & Security**
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://linkedin.com/in/nayim-hasan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nayim.wd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://nayim-hasan-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏏 Sports Club API
+**Complete Backend Solution**
+
+A robust REST API powering cricket tournaments with 90+ endpoints, role-based access control, and comprehensive team management.
+
+**Stack:** Node.js • Express • MongoDB  
+**Features:** Authentication, RBAC, Tournament Management
+
+[![View Repository](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayimWd/sports-club-api)
+
+</td>
+<td width="50%">
+
+### 📊 Sports Club Dashboard
+**Enterprise Admin Panel**
+
+Full-featured React dashboard with role-based routing, nested navigation, and scalable state management architecture.
+
+**Stack:** React • Redux Toolkit • Tailwind • shadcn/ui  
+**Features:** RTK Query, Role Management, Reusable Components
+
+[![View Repository](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayimWd/sports-club-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 💼 Developer Portfolio
+**Modern, Minimal, Professional**
+
+Clean portfolio showcasing projects with smooth animations, responsive design, and optimal performance.
+
+**Stack:** Next.js • Tailwind CSS • Framer Motion  
+**Features:** SEO Optimized, Fast Loading, Smooth Transitions
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nayim-hasan-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center"><strong>Crafting scalable, minimal & meaningful digital experiences.</strong></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-master-nayims-projects.vercel.app/api?username=NayimWd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NayimWd&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-master-nayims-projects.vercel.app/api/top-langs/?username=NayimWd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=c9d1d9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NayimWd&bg_color=0D1117&color=0891b2&line=0891b2&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NayimWd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💬 Let's Build Something Amazing
+
+<div align="center">
+
+### I'm always open to interesting projects and collaboration opportunities
+
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/nayim-hasan">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:nayim.wd@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://nayim-hasan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐️ From [NayimWd](https://github.com/NayimWd) | Crafting Scalable, Minimal & Meaningful Digital Experiences
+
+</div>
